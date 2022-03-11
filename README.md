@@ -1,4 +1,4 @@
-# Course Material and FAQ for my Advanced CSS Course
+# Course Material and FAQ for Jonas Schmedtmann Advanced CSS Course on udemy
 
 This repo contains starter files and the finished project files for all the projects contained in the course.
 
